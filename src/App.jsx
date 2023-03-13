@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 
 // api key request setting
 const myHeaders = new Headers();
-myHeaders.append("apikey", Exange_Rates_Data_API);
+myHeaders.append("apikey", Exchange_Rates_Data_API);
 
 const requestOptions = {
   method: "GET",
