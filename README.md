@@ -1,6 +1,6 @@
 # 轉換匯率工具
-
-用於兩個貨幣間的價格轉換，使用 Exchange Rates Data API 抓取及時匯率並計算
+* 用於兩個貨幣間的價格轉換，使用 Exchange Rates Data API 抓取及時匯率並計算
+* learn from Web Dev Simplified
 
 ## 網站
 https://convert-exchange-rates.netlify.app/
